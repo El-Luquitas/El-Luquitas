@@ -70,5 +70,5 @@ Soy estudiante de doble título de la Universidad de Chile, apasionado por la te
 <br>
 
 <div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ElLuquitas&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
+<img src="https://github-readme-stats.vercel.app/api?username=El-Luquitas&count_private=true&show_icons=true&custom_title=Github&theme=chartreuse-dark&bg_color=0,000000,130F40&layout=compact&border_radius=8">
 </div>
